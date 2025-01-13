@@ -1,2 +1,2 @@
 # Introdução_a_Sistemas_Lógicos
- Meus projetos e trabalhos em ISL
+Meus projetos e trabalhos em ISL desenvolvidos durante a gradução
